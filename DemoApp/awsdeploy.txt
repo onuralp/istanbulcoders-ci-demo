@@ -1,2 +1,2 @@
 ﻿Template = ElasticBeanstalk
-Container.ApplicationHealthcheckPath = /healthcheck
+Container.ApplicationHealthcheckPath = /
