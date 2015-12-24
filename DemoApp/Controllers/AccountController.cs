@@ -19,7 +19,7 @@ namespace DemoApp.Controllers
         private ApplicationUserManager _userManager;
 
         public AccountController()
-        {
+        {dd
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
